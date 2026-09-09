@@ -1,174 +1,253 @@
-<div align="center">
+# 👋 Hi, I'm Guruvasanth S
 
-# 👋 Hey, I'm **Guru Vasanth**
+### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+I'm a Computer Science Engineering graduate passionate about **DevOps, Cloud Computing, CI/CD, Infrastructure Automation, and AI-powered operations**.
 
-### 💻 Building • ☁️ Automating • 🚀 Learning
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:FF00CC&height=120&section=header" />
-
-</div>
+Currently building real-world projects to strengthen my skills in **Docker, Jenkins, AWS, Terraform, Kubernetes, Python, and Linux**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Guru Vasanth
-role: Computer Science Engineering Student
-focus:
-  - Software Development
-  - DevOps
-  - Cloud Computing
-  - Automation
+* 🎓 Computer Science & Engineering Graduate
+* ☁️ Interested in **Cloud & DevOps Engineering**
+* 🔧 Building hands-on DevOps projects
+* 🐍 Learning **Python for DevOps & Automation**
+* 🚀 Exploring **Kubernetes, AWS & Infrastructure as Code**
+* 🤖 Interested in **AI + DevOps / AIOps**
+* 📍 Based in India
+* 💡 Goal: Build reliable, automated and self-healing infrastructure
 
-currently_learning:
-  - AWS
-  - Docker
-  - Jenkins
-  - Terraform
-  - Linux
+---
 
-goal: "Build real-world applications & become a strong DevOps Engineer 🚀"
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ⚙️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### 🌐 Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 AutoHeal — Self-Healing Web Application
+
+An automated DevOps project focused on **CI/CD, containerization, health monitoring and self-healing application workflows**.
+
+### Tech Stack
+
+`Node.js` `Express` `Jenkins` `Docker` `AWS EC2` `GitHub` `Cloudflare`
+
+### Workflow
+
+```text
+Developer
+   ↓
+GitHub
+   ↓
+Jenkins
+   ↓
+Install Dependencies
+   ↓
+Run Tests
+   ↓
+Docker Build
+   ↓
+Deployment
+   ↓
+Health Monitoring
+   ↓
+Self-Healing
+```
+
+🔗 **Repository:**
+https://github.com/vasanth-gv/AutoHeal
+
+---
+
+## 🛡️ DriftGuard — Infrastructure Drift & Security Remediation
+
+A DevOps security project designed to detect **infrastructure configuration drift**, evaluate risk and generate remediation actions.
+
+### Tech Stack
+
+`Python` `AWS` `Terraform` `Jenkins` `Boto3`
+
+### Core Features
+
+* 🔍 Infrastructure drift detection
+* 🔐 Security configuration analysis
+* ⚠️ Risk scoring
+* 🛠️ Remediation planning
+* ☁️ AWS infrastructure validation
+* 🔄 Jenkins automation
+
+### Workflow
+
+```text
+AWS Infrastructure
+        ↓
+Drift Detector
+        ↓
+Risk Engine
+        ↓
+Security Analysis
+        ↓
+Remediation Plan
+        ↓
+Approval
+        ↓
+Infrastructure Fix
+```
+
+🔗 **Repository:**
+https://github.com/vasanth-gv/DriftGuard
+
+---
+
+## 🤖 OpsMind — Autonomous DevOps Command Center
+
+An experimental project exploring the combination of **AI, automation and DevOps operations**.
+
+### Tech Stack
+
+`Python` `FastAPI` `DevOps` `AI`
+
+### Vision
+
+```text
+Monitor
+   ↓
+Detect
+   ↓
+Analyze
+   ↓
+Decide
+   ↓
+Remediate
+   ↓
+Verify
+```
+
+The goal is to build an intelligent DevOps platform capable of assisting with infrastructure monitoring, incident analysis and automated remediation.
+
+---
+
+## 🌐 WEBIFY LeadHunter
+
+A Python-based business lead generation tool designed to discover and organize local business information.
+
+### Tech Stack
+
+`Python` `Requests` `Pandas` `OpenPyXL` `APIs`
+
+### Features
+
+* 🔎 Business discovery
+* 📊 Structured lead collection
+* 📁 Excel export
+* ⚙️ Automated data processing
+
+---
+
+## 🍰 GUSTO AUTENTICO
+
+A premium bakery, café and restaurant website built with a modern full-stack architecture.
+
+### Tech Stack
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `MySQL`
+
+### Features
+
+* 🍰 Product catalogue
+* 🛒 Customer-facing interface
+* 🗄️ MySQL backend
+* ⚡ Node.js API
+* 📱 Responsive design
+
+---
+
+# 📚 Currently Learning
+
+```text
+Docker
+   ↓
+Kubernetes
+   ↓
+AWS
+   ↓
+Terraform
+   ↓
+CI/CD
+   ↓
+Python Automation
+   ↓
+DevSecOps
+   ↓
+AIOps
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 🎯 Career Goal
 
-<div align="center">
+> **Build reliable, secure and intelligent infrastructure through DevOps automation.**
 
-### 👨‍💻 Programming
+I'm continuously working on hands-on projects to improve my understanding of:
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-
-### 🌐 Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,jenkins,terraform,aws" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-
-</div>
+* ☁️ Cloud Infrastructure
+* 🔄 CI/CD Automation
+* 🐳 Containerization
+* ☸️ Kubernetes
+* 🏗️ Infrastructure as Code
+* 🔐 DevSecOps
+* 🐍 Python Automation
+* 🤖 AI-powered DevOps
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Stats
 
-<table>
-<tr>
+![Guruvasanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasanth-gv\&show_icons=true\&theme=tokyonight)
 
-<td width="50%">
-
-### 🎬 Movie Booking System
-
-Full-stack movie booking application with frontend, backend and database integration.
-
-**Tech:**
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
-
-</td>
-
-<td width="50%">
-
-### ☁️ DevOps Projects
-
-Hands-on projects involving CI/CD, Jenkins, Docker, Terraform and AWS.
-
-**Tech:**
-`Linux` `Git` `Jenkins` `Docker` `Terraform` `AWS`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Final Year Project
-
-Research-oriented project involving robotics, navigation and intelligent systems.
-
-**Tech:**
-`Python` `ROS2` `Gazebo` `OpenCV`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Projects
-
-Modern websites created for real-world business use cases.
-
-**Tech:**
-`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
-
-</td>
-
-</tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-gv\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Analytics
+# 🤝 Connect With Me
 
-<div align="center">
+💼 **LinkedIn:**
+https://www.linkedin.com/in/guruvasanth-s-979575333/
 
-<img src="https://github-readme-stats.vercel.app/api?username=vasanth-gv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+💻 **GitHub:**
+https://github.com/vasanth-gv
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-gv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vasanth-gv&theme=tokyonight&hide_border=true" />
-
-</div>
+🌐 **Portfolio:**
+https://guruvasanth-portfolio.vercel.app/
 
 ---
 
-## 🐍 My Contributions
+### ⭐ Building. Automating. Learning. Improving.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/guruvasanth-s-979575333/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vasanth-gv">
-<img src="https://img.shields.io/badge/GitHub-Follow-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 `Code. Build. Deploy. Repeat.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,50:7F00FF,100:00C6FF&height=100&section=footer" />
-
-</div>
+**Always learning — always building. 🚀**
